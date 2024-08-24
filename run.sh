@@ -11,4 +11,5 @@
 # "$PYTHON_ENV"/bin/python "./src/event_queue.py"
 # "$PYTHON_ENV"/bin/python "./src/strategy.py"
 # "$PYTHON_ENV"/bin/python "./src/template.py"
-"$PYTHON_ENV"/bin/python "./src/visitor.py"
+# "$PYTHON_ENV"/bin/python "./src/visitor.py"
+"$PYTHON_ENV"/bin/python "./src/singleton.py"
