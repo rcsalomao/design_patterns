@@ -12,4 +12,5 @@
 # "$PYTHON_ENV"/bin/python "./src/strategy.py"
 # "$PYTHON_ENV"/bin/python "./src/template.py"
 # "$PYTHON_ENV"/bin/python "./src/visitor.py"
-"$PYTHON_ENV"/bin/python "./src/singleton.py"
+# "$PYTHON_ENV"/bin/python "./src/singleton.py"
+"$PYTHON_ENV"/bin/python "./src/borg.py"
